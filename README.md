@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src= https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 <p align="left"> <a href="https://twitter.com/saurabhkhatmode" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhkhatmode?logo=twitter&style=for-the-badge" alt="saurabhkhatmode" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce-Frontend (MERN).](https://github.com/Saurabh-8585/MERN-E-Commerce-Frontend) and [E-commerce-Backend (MERN).](https://github.com/Saurabh-8585/MERN-E-Commerce-Backend)
+- 🔭 I’m currently working on [Social-Media-Frontend (MERN).](https://github.com/Saurabh-8585/MERN-Social-Media-Frontend) and [Social-Media-Backend (MERN).](https://github.com/Saurabh-8585/MERN-Social-Media-Backend)
 
 - 🌱 I’m currently learning **Advance MERN**
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saurabh-khatmode/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="saurabh khatmode" height="30" width="40" /></a>
-<a href="https://twitter.com/saurabhkhatmode" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="saurabhkhatmode" height="40" width="40" /></a>
+<a href="https://twitter.com/saurabhkhatmode" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="saurabhkhatmode" height="40" width="35" /></a>
 <a href="https://instagram.com/saurabh7xd" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="saurabh7xd" height="40" width="40" /></a>
 </p>
 
