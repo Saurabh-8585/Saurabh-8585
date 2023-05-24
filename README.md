@@ -16,25 +16,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saurabh-khatmode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh khatmode" height="30" width="40" /></a>
-<a href="https://twitter.com/saurabhkhatmode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabhkhatmode" height="30" width="40" /></a>
-<a href="https://instagram.com/saurabh7xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabh7xd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saurabh-khatmode/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="saurabh khatmode" height="30" width="40" /></a>
+<a href="https://twitter.com/saurabhkhatmode" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="saurabhkhatmode" height="30" width="40" /></a>
+<a href="https://instagram.com/saurabh7xd" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="saurabh7xd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
 
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2752148-2284965.png" alt="javascript" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40" style="margin-right: 10px;">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="margin-right: 10px;">
-
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2752148-2284965.png" alt="javascript" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-3-1175138.png" alt="mongodb" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-vscode-4069952-3365471.png" alt="html5" width="40" height="40" style="margin-right: 20px;">
 
 </p>
 
