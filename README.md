@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **khatmodesaurabh7@gmail.com**
 
-- 📄 Know about my experiences **[https://saurabhkhatmode.netlify.app/]**(https://saurabhkhatmode.netlify.app/)
+- 📄 Know about my experiences <b>[https://saurabhkhatmode.netlify.app/]</b>(https://saurabhkhatmode.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
