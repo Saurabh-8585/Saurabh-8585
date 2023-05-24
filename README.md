@@ -12,13 +12,13 @@
 
 - 📫 How to reach me **khatmodesaurabh7@gmail.com**
 
-- 📄 Know about my experiences [https://saurabhkhatmode.netlify.app/](https://saurabhkhatmode.netlify.app/)
+- 📄 Know about my experiences **[https://saurabhkhatmode.netlify.app/]**(https://saurabhkhatmode.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saurabh-khatmode/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="saurabh khatmode" height="30" width="40" /></a>
 <a href="https://twitter.com/saurabhkhatmode" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="saurabhkhatmode" height="40" width="35" /></a>
-<a href="https://instagram.com/saurabh7xd" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="saurabh7xd" height="40" width="40" /></a>
+<a href="https://instagram.com/saurabh7xd" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="saurabh7xd" height="40" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
