@@ -32,13 +32,14 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 20px;">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 20px;">
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="margin-right: 20px;">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="35" height="30" style="margin-right: 20px;">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-vscode-4069952-3365471.png" alt="vscode" width="40" height="40" style="margin-right: 20px;">
 </p>
 
-<p> <img src="https://github-profile-trophy.vercel.app/?username=saurabh-8585&margin-w=15" alt="saurabh-8585" /></p>
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saurabh-8585&show_icons=true&locale=en&layout=compact" alt="saurabh-8585"></p>
 
+<p> <img src="https://github-profile-trophy.vercel.app/?username=saurabh-8585&margin-w=15" alt="saurabh-8585" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saurabh-8585&show_icons=true&locale=en" alt="saurabh-8585"></p>
+
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saurabh-8585&show_icons=true&locale=en&layout=compact" alt="saurabh-8585"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh-8585" alt="saurabh-8585"></p>
