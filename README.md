@@ -36,7 +36,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-vscode-4069952-3365471.png" alt="vscode" width="40" height="40" style="margin-right: 20px;">
 </p>
 
-<p> <img src="https://github-profile-trophy.vercel.app/?username=saurabh-8585" alt="saurabh-8585" /></p>
+<p> <img src="https://github-profile-trophy.vercel.app/?username=saurabh-8585&margin-w=15" alt="saurabh-8585" /></p>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saurabh-8585&show_icons=true&locale=en&layout=compact" alt="saurabh-8585"></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saurabh-8585&show_icons=true&locale=en" alt="saurabh-8585"></p>
