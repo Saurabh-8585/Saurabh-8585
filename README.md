@@ -9,8 +9,6 @@
   <a href="https://twitter.com/saurabhkhatmode" target="_blank"><img src="https://img.shields.io/twitter/follow/saurabhkhatmode?logo=twitter&style=for-the-badge" alt="saurabhkhatmode"></a>
 </p>
 
-- 🔭 I’m currently working on [Social-Media-Frontend (MERN).](https://github.com/Saurabh-8585/MERN-Social-Media-Frontend) and [Social-Media-Backend (MERN).](https://github.com/Saurabh-8585/MERN-Social-Media-Backend)
-- 🌱 I’m currently learning **Advanced MERN**
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB**
 - 📫 How to reach me: **khatmodesaurabh7@gmail.com**
 - 📄 Know about my experiences: [**https://saurabh.vercel.app/**](https://saurabh.vercel.app/)
