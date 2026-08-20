@@ -10,7 +10,6 @@ Building, automating, deploying, and operating scalable applications 🚀
 
 ## 👨‍💻 About Me
 
-* 💼 Software Engineer with **3 years of experience** in software development and DevOps practices.
 * 🚀 Experienced in building and deploying applications using **Docker, Kubernetes, AWS, Terraform, and CI/CD**.
 * ☁️ Interested in **Cloud Infrastructure, DevOps, Platform Engineering, and Site Reliability Engineering**.
 * 🛠️ Hands-on experience with **AWS, Docker, Kubernetes, Terraform, GitHub Actions, Linux, and Git**.
