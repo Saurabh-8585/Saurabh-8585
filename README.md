@@ -13,7 +13,7 @@ Building, automating, deploying, and operating scalable applications 🚀
 * 🚀 Experienced in building and deploying applications using **Docker, Kubernetes, AWS, Terraform, and CI/CD**.
 * ☁️ Interested in **Cloud Infrastructure, DevOps, Platform Engineering, and Site Reliability Engineering**.
 * 🛠️ Hands-on experience with **AWS, Docker, Kubernetes, Terraform, GitHub Actions, Linux, and Git**.
-* 💻 Strong software engineering background with **Node.js, React, Next.js, TypeScript, and MERN stack**.
+* 💻 Strong software engineering background with **TypeScript, Next.js and MERN stack**.
 * 🔧 I enjoy building infrastructure, automating deployments, debugging production issues, and improving system reliability.
 * 📫 Reach me at: **[khatmodesaurabh7@gmail.com](mailto:khatmodesaurabh7@gmail.com)**
 * 🌐 Portfolio: **[saurabh.vercel.app](https://saurabh.vercel.app/)**
